@@ -1,0 +1,3 @@
+com\services\rest\IInfoService.class
+com\services\rest\mock\InfoServiceJson.class
+com\services\portal\IPortal.class
